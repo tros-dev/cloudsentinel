@@ -1,0 +1,7 @@
+﻿fastapi
+uvicorn
+requests
+python-dotenv
+geoip2
+streamlit
+slack_sdk
